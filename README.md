@@ -1,26 +1,12 @@
-# Presentación
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
 
-Descripción
+Agustin Hoj
+
+Me gustan los autos y los juegitos 
 
 Foto de mi persona:
+![image](https://github.com/algo1unsam/presentaciontp0-4gustincho1/assets/123590852/1a01d6f6-4087-409c-ab4c-84ce6d008b61)
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
 
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
